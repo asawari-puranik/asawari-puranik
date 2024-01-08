@@ -10,7 +10,6 @@ I'm currently working as a Business Intelligence Consultant in India, where my j
 
 - I'm engaged in exciting data engineering and analytics projects.
 - I'm exploring different tools and frameworks to enhance my skill set.
-- I'm an early riser, always driven and constantly learning in tech.
 
 ## 💻 Skills
 
