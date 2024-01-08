@@ -1,7 +1,5 @@
 ### Hello there!👋 
-### I'm Asawari Puranik  
-
-I'm a data engineer/analyst based in India, and I'm passionate about exploring the world of data.
+### I'm Asawari Puranik, Data Engineer and Analyst
 
 Professionally, I have been involved in Business Intelligence and Analytics initiatives for clients from various domains.
 I am skilled in collaborating with stakeholders to determine business needs, design data models, produce ETL scripts using various on-prem and cloud based tools and generate dashboards using a variety of data visualisation tools.
