@@ -18,9 +18,8 @@ I'm currently working as a Business Intelligence Consultant in India, where my j
 
 ## ✨ Fun Facts 
 
-- Dragon Ball Z is my favorite anime.
-- I have a gaming laptop but I want to install Linux on it.
-- In my free time, I read a lot of Indian comics.
+- I am a nerd and consequently, a treasure chest of fandom references at any given point of time xD
+- I love to read, play video games and be active and adventurous, whether its playing sports or exploring mountains and trails, I'm up for it!
 
 ## 📫 Contact
 
