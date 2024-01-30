@@ -27,7 +27,7 @@ I'm currently working as a Business Intelligence Consultant in India, where my j
  
  For professional inquiries, reach out via email at [asawari.puranik03@gmail.com](mailto:asawari.puranik03@gmail.com). 
 
-Join me on this thrilling journey as we unlock the true potential of data, together crafting meaningful experiences and driving success.
+Join me on this thrilling journey as we unlock the true potential of data together, crafting meaningful experiences and driving success.
 
 <!--## GitHub Stats
 <p><img src="https://github-readme-stats.vercel.app/api?username=asawari-puranik&amp;show_icons=true" alt="GitHub Stats"></p>-->
